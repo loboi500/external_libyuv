@@ -1,7 +1,3 @@
-:: This script must not rely on any external tools or PATH values.
-@echo OFF
-
-if "%SETUP_ENV_LIBYUV_TOOLS%"=="done" goto :EOF
-set SETUP_ENV_LIBYUV_TOOLS=done
-
-:: TODO(fbarchard): add files\win32 to for psnr tool
+version https://git-lfs.github.com/spec/v1
+oid sha256:92adc17382782df4f7f7b21e18ff82d54c88673b952d86c83af9d35d6a182091
+size 212

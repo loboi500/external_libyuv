@@ -1,18 +1,3 @@
-package {
-    default_applicable_licenses: ["external_libyuv_license"],
-}
-
-// Added automatically by a large-scale-change
-// See: http://go/android-license-faq
-license {
-    name: "external_libyuv_license",
-    visibility: [":__subpackages__"],
-    license_kinds: [
-        "SPDX-license-identifier-BSD",
-    ],
-    license_text: [
-        "LICENSE",
-    ],
-}
-
-subdirs = ["files"]
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc40e1064b0a16b8f42339da5b8cd559993432cd02d4458d560f34c241840517
+size 381

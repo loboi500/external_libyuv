@@ -1,13 +1,3 @@
-# This file contains all the common make variables which are useful for
-# anyone depending on this library.
-# Note that dependencies on NDK are not directly listed since NDK auto adds
-# them.
-
-LIBYUV_INCLUDES := $(LIBYUV_PATH)/files/include
-
-LIBYUV_C_FLAGS :=
-
-LIBYUV_CPP_FLAGS :=
-
-LIBYUV_LDLIBS :=
-LIBYUV_DEP_MODULES :=
+version https://git-lfs.github.com/spec/v1
+oid sha256:004e934074bc95824fec118a5262024655eafe57f2e0f13ae179957a2e095959
+size 321
